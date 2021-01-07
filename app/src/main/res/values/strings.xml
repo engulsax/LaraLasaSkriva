@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Läsa och skriva för småbarn</string>
+    <string name="level1">Korta Ord</string>
+    <string name="level2">Mellanlånga Ord</string>
+    <string name="level3">Långa Ord</string>
+
+    <string name="forestTitle">I Skogen</string>
+    <string name="foodTitle">Mat och Dryck</string>
+</resources>

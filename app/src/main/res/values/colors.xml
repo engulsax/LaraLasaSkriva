@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="backgroundBlue">#A9E8FF</color>
+    <color name="backgroundYellow">#FFF59B</color>
+
+    //Letter colors
+    <color name="letterRed">#ff0000</color>
+    <color name="letterGreen">#3cff00</color>
+    <color name="letterYellow">#fddc07</color>
+    <color name="letterPink">#ff00f0</color>
+
+    //Container colors
+    <color name="foodBackground">#b52ba5</color>
+    <color name="forestBackground">#b52ba5</color>
+    <color name="farmBackground">#b52ba5</color>
+
+
+</resources>
